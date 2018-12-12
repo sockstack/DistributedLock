@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Sockstack\\Distributedlock\\": "src"
+        }
+    },
+    "require": {
+        "predis/predis": "^1.1",
+        "noahbuscher/macaw": "dev-master"
+    }
+}
